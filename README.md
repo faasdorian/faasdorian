@@ -6,7 +6,7 @@ Jr. Back-End Dev
 
 * 🌍  I'm based in São Paulo, Brasil
 * ✉️  You can contact me at [faasdorian@gmail.com](mailto:faasdorian@gmail.com)
-* 🚀  I'm currently working on [VentureLabs](https://venturelabs.group/)
+* 🚀  I'm currently working on improving my developer skills!
 * 🧠  I'm learning Kotlin, AWS, serverless, Spring, Typescript, NestJS
 * 🤝  I'm open to collaborating on anything, really!
 
