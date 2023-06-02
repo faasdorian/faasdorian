@@ -1,7 +1,7 @@
 Hi 👋 My name is Fábio Arthur Asdorian
 ======================================
 
-Jr. Back-End Dev
+Back-End Dev
 ----------------
 
 * 🌍  I'm based in São Paulo, Brasil
