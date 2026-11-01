@@ -1,39 +1,32 @@
-Hello World! 👋 My name is Fábio Arthur Asdorian
-======================================
+# Hi, I'm Fábio Asdorian 👋
 
-Back-End Dev
-----------------
+Backend Software Engineer with 5+ years of experience specializing in high-throughput microservices, banking-grade systems architecture, and distributed infrastructure—currently based in Lisbon, Portugal.
 
-* 🌍  I'm based in São Paulo, Brasil
-* ✉️  You can contact me at [faasdorian@gmail.com](mailto:faasdorian@gmail.com)
-* 🚀  I'm currently working on improving my developer skills!
-* 🧠  I'm learning Java, AWS, Serverless, SpringFramework, Typescript, NestJS
-* 🤝  I'm open to collaborating on anything, really!
+---
 
-### Skills
+### 💻 What I Do & Focus On
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" />
-          
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="36" height="36" />
-          
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" />
-          
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-          
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-          
-          
-</p>
+* **Core Engineering:** Designing modular, scalable backend services and event-driven architectures with **Java** & **Spring Boot**.
+* **Architecture:** Applying **Hexagonal Architecture**, domain-driven design, and containerized microservices to complex business domains.
+* **Low-Level & Game Systems:** Exploring data-oriented design, performance optimization, and 2D mechanics using **libGDX** and **Ashley ECS**.
+* **Environment & Tooling:** Linux power user (Arch / KDE), terminal automation, and custom workflow development.
 
+---
 
-### Socials
+### 🛠️ Tech Stack & Skills
 
-<p align="left"> <a href="https://www.github.com/faasdorian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/faasdorian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+* **Languages:** Java, SQL, Shell, Python
+* **Frameworks & Libs:** Spring Boot, Spring Cloud, Ashley (ECS), libGDX, JUnit / Mockito
+* **Architecture & Patterns:** Microservices, Event-Driven, Hexagonal Architecture, Data-Oriented Design (ECS)
+* **DevOps & Infrastructure:** Docker, Kubernetes, CI/CD pipelines, Git, Linux Administration
+
+---
+
+### 🚀 Side Projects & Logs
+
+* 🗡️ **2D Dungeon Crawler Engine:** A procedural dungeon crawler built with Java, libGDX, and Ashley ECS.
+* 📝 **Devlogs:** Documenting my indie game development journey and architectural lessons learned along the way.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/faasdorian) | [GitHub](https://github.com/faasdorian)
